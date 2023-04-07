@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>posts. on aadi.</title>
-    <link>http://aadi.net.in/post/</link>
+    <link>https://2200g.github.io/post/</link>
     <description>Recent content in posts. on aadi.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 aadi.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2023 02:48:00 +0530</lastBuildDate><atom:link href="http://aadi.net.in/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2023 02:48:00 +0530</lastBuildDate><atom:link href="https://2200g.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>random stuff.</title>
-      <link>http://aadi.net.in/post/randomthings/</link>
+      <link>https://2200g.github.io/post/randomthings/</link>
       <pubDate>Thu, 06 Apr 2023 02:48:00 +0530</pubDate>
       
-      <guid>http://aadi.net.in/post/randomthings/</guid>
+      <guid>https://2200g.github.io/post/randomthings/</guid>
       <description>&lt;p&gt;uhhh random stuff yesyes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>discord servers.</title>
-      <link>http://aadi.net.in/post/servers/</link>
+      <link>https://2200g.github.io/post/servers/</link>
       <pubDate>Tue, 04 Apr 2023 19:26:00 +0530</pubDate>
       
-      <guid>http://aadi.net.in/post/servers/</guid>
+      <guid>https://2200g.github.io/post/servers/</guid>
       <description>&lt;p&gt;a list of discord servers that you should be in.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bored of etch.</title>
-      <link>http://aadi.net.in/post/boredofetch/</link>
+      <link>https://2200g.github.io/post/boredofetch/</link>
       <pubDate>Tue, 04 Apr 2023 19:07:00 +0530</pubDate>
       
-      <guid>http://aadi.net.in/post/boredofetch/</guid>
+      <guid>https://2200g.github.io/post/boredofetch/</guid>
       <description>&lt;p&gt;okay so i use &lt;a href=&#34;https://github.com/joeroe/risotto&#34;&gt;risotto&lt;/a&gt; now.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>brutalism.</title>
-      <link>http://aadi.net.in/post/brutalism/</link>
+      <link>https://2200g.github.io/post/brutalism/</link>
       <pubDate>Mon, 03 Apr 2023 04:20:00 +0530</pubDate>
       
-      <guid>http://aadi.net.in/post/brutalism/</guid>
+      <guid>https://2200g.github.io/post/brutalism/</guid>
       <description>&lt;p&gt;i talk about brutalism!! :)))&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>blog.</title>
-      <link>http://aadi.net.in/post/blogpost/</link>
+      <link>https://2200g.github.io/post/blogpost/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0530</pubDate>
       
-      <guid>http://aadi.net.in/post/blogpost/</guid>
+      <guid>https://2200g.github.io/post/blogpost/</guid>
       <description>&lt;p&gt;a blog.&lt;/p&gt;</description>
     </item>
     
