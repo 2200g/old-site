@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 aadi.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2023 02:48:00 +0530</lastBuildDate><atom:link href="https://2200g.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 07:09:00 +0530</lastBuildDate><atom:link href="https://2200g.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>getting https:// for free.</title>
+      <link>https://2200g.github.io/post/cloudflare/</link>
+      <pubDate>Sun, 09 Apr 2023 07:09:00 +0530</pubDate>
+      
+      <guid>https://2200g.github.io/post/cloudflare/</guid>
+      <description>&lt;p&gt;how to set up cloudflare for that shiny lockpad and https:// :) (for free)&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>random stuff.</title>
       <link>https://2200g.github.io/post/randomthings/</link>
@@ -19,10 +28,10 @@
     
     <item>
       <title>discord servers.</title>
-      <link>https://2200g.github.io/post/servers/</link>
+      <link>https://2200g.github.io/post/discordservers/</link>
       <pubDate>Tue, 04 Apr 2023 19:26:00 +0530</pubDate>
       
-      <guid>https://2200g.github.io/post/servers/</guid>
+      <guid>https://2200g.github.io/post/discordservers/</guid>
       <description>&lt;p&gt;a list of discord servers that you should be in.&lt;/p&gt;</description>
     </item>
     
@@ -46,10 +55,10 @@
     
     <item>
       <title>blog.</title>
-      <link>https://2200g.github.io/post/blogpost/</link>
+      <link>https://2200g.github.io/post/blog/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0530</pubDate>
       
-      <guid>https://2200g.github.io/post/blogpost/</guid>
+      <guid>https://2200g.github.io/post/blog/</guid>
       <description>&lt;p&gt;a blog.&lt;/p&gt;</description>
     </item>
     
